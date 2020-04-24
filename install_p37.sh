@@ -5,5 +5,5 @@ sudo apt-get update
 sudo apt install python3.7
 sudo apt install python3-pip
 echo 'alias python=python3.7 \n alias pip=pip3' > ~/.bash_aliases
-source ~/.bash_aliasesss
+source ~/.bash_aliases
 python -V
